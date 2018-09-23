@@ -39,8 +39,12 @@ hr {
     height: 2px;
     background-color: blue;
 }
+.grijs {
+    background-color: snow;
+    height: 1px;
+    width: 100%;
+}
 
-.p
 
 br {
     height: 25px;
@@ -130,3 +134,4 @@ a.nondeco:hover {
 label {
     color: white;
 }
+
