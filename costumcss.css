@@ -67,8 +67,9 @@ padding: 20px;
     height: auto;
 }
 strong {
-    color: #F5D355;
-    font-style: italic;
+    color: #fff;
+    font-style: bold;
+    font-size: 110%;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
